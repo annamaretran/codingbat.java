@@ -1,2 +1,0 @@
-# codingbat
-codingbat practice problems
